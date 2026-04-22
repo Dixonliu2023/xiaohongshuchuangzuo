@@ -240,6 +240,12 @@ npx skills add Dixonliu2023/xiaohongshuchuangzuo
 
 ---
 
+## 更新日志
+
+- [CHANGELOG.md](CHANGELOG.md)
+
+---
+
 ## 适用边界
 
 这个 skill 不适合做这些事：
