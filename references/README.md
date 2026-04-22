@@ -12,6 +12,7 @@
 | [forbidden-words.md](forbidden-words.md) | 违禁词检测，含笔记体检状态灯 | ⭐⭐⭐⭐⭐ |
 | [topic-mining.md](topic-mining.md) | 选题挖掘方法，含价值四维评估 | ⭐⭐⭐⭐ |
 | [cover-design.md](cover-design.md) | 封面设计技巧，4种封面类型 | ⭐⭐⭐⭐ |
+| [image-prompting.md](image-prompting.md) | 封面图像提示词、人物参考迁移、旅行视觉模板 | ⭐⭐⭐⭐ |
 
 ## 使用指南
 
@@ -25,6 +26,7 @@
 6. **第六天：** 读 analytics.md → 学习拆解爆款（含价值分析）
 7. **第七天：** 读 topic-mining.md → 挖掘热门选题（含价值评估）
 8. **第八天：** 读 cover-design.md → 优化封面设计
+9. **第九天：** 读 image-prompting.md → 提高封面图像 prompt 准确度
 
 ### 日常使用流程
 
@@ -36,8 +38,9 @@
 4. **标题：** 读 title-formula.md → 生成标题2.0版
 5. **内容：** 读 content-templates.md → 写作正文+价值感知设计
 6. **封面：** 读 cover-design.md → 设计封面
-7. **检测：** 读 forbidden-words.md → 违禁词检测+笔记体检
-8. **拆解：** 读 analytics.md → 分析爆款（含价值分析）
+7. **图像生成：** 读 image-prompting.md → 细化 prompt 和人物参考迁移
+8. **检测：** 读 forbidden-words.md → 违禁词检测+笔记体检
+9. **拆解：** 读 analytics.md → 分析爆款（含价值分析）
 
 ## 核心公式速查
 
