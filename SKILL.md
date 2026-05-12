@@ -33,6 +33,10 @@ description: Use when working on Xiaohongshu content strategy, account positioni
 
 如果某条内容与这个 IP 无关，或者会稀释这个主轴，不应优先写。
 
+### 已沉淀账号档案
+
+- `小刘`：旅行社小红书自媒体定位。主轴是“给高压人群设计状态切换旅行的旅行主理人”，产品矩阵包括五台山大朝台徒步、成都 100 小时戒断班味、2-8 人小车产品。用户提到“小刘”“小刘账号”“我的小红书定位”“旅行社自媒体定位”时，优先读取 `references/xiaoliu-positioning.md`。
+
 ---
 
 ## 什么时候用
@@ -238,6 +242,11 @@ description: Use when working on Xiaohongshu content strategy, account positioni
 | “这篇内容会不会违规” | 合规检查 | 风险点、替代表达、修改版 |
 | “最近发什么选题” | 选题挖掘 | 选题池、搜索词、内容配比 |
 | “封面怎么做” | 封面建议 | 首图文案、视觉重点、版式建议 |
+| “这个赛道怎么从 0 到 1 拆” | 赛道调研 | 同行层级、搜索词地图、首月内容验证 |
+| “帮我拆同行/对标账号” | 同行拆解 | 账号类型、爆款元素、承接链路、风险边界 |
+| “关键词/搜索词怎么布局” | 搜索词策略 | 品类词、场景词、人群词、问题词、布局位置 |
+| “这些笔记数据怎么复盘” | 内容复盘 | 好中差分层、复用方向、下轮测试 |
+| “小红书团队/矩阵怎么搭” | 运营组织 | 角色分工、账号资产、协作节奏 |
 
 如果用户信息不足，先补关键上下文。最少确认以下 4 项中的必要项：
 - 做什么领域
@@ -257,6 +266,13 @@ description: Use when working on Xiaohongshu content strategy, account positioni
 参考：`references/operations-thinking.md`
 参考：`references/search-vs-feed.md`
 参考：`references/wutaishan-dachaotai-materials.md`
+参考：`references/zhengzhou-method.md`
+参考：`references/track-research-sop.md`
+参考：`references/benchmark-note-deconstruction.md`
+参考：`references/search-keyword-playbook.md`
+参考：`references/content-review-loop.md`
+参考：`references/org-and-roles.md`
+参考：`references/compliance-boundary.md`
 
 ---
 
@@ -791,3 +807,11 @@ description: Use when working on Xiaohongshu content strategy, account positioni
 - `references/forbidden-words.md`
 - `references/topic-mining.md`
 - `references/cover-design.md`
+- `references/zhengzhou-method.md`
+- `references/track-research-sop.md`
+- `references/benchmark-note-deconstruction.md`
+- `references/search-keyword-playbook.md`
+- `references/content-review-loop.md`
+- `references/org-and-roles.md`
+- `references/compliance-boundary.md`
+

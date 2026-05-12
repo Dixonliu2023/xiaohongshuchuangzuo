@@ -9,6 +9,32 @@
 
 ---
 
+## 2026-05-13
+
+### 新增
+- 新增 `references/xiaoliu-positioning.md`
+  - 沉淀“小刘”旅行社小红书账号定位
+  - 明确“给高压人群设计状态切换旅行的旅行主理人”主轴
+  - 补充五台山大朝台、成都 100 小时戒断班味、2-8 人小车产品矩阵
+  - 增加五台山大朝台招募型攻略、定价价值、第二曲线承接和微信承接规则
+- 新增多份专项参考文件
+  - `benchmark-note-deconstruction.md`
+  - `compliance-boundary.md`
+  - `content-review-loop.md`
+  - `org-and-roles.md`
+  - `search-keyword-playbook.md`
+  - `track-research-sop.md`
+  - `zhengzhou-method.md`
+
+### 更新
+- 更新 `SKILL.md`
+  - 增加“小刘”账号档案入口
+  - 强化旅行社账号从定位、选题、标题、诊断到成交承接的任务路由
+- 同步本地新版 references
+  - 强化小红书旅行产品的运营判断、搜索词策略、封面前置、内容复盘和合规边界
+
+---
+
 ## 2026-04-22
 
 ### 新增
